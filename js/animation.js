@@ -1,6 +1,6 @@
 $(function() {
     $(window).scroll(function () {
-        if ($(window).scrollTop() > 1) {
+        if ($(window).scrollTop() > 350) {
             $('.no-padding').addClass('fadeInLeft');
         }
 
