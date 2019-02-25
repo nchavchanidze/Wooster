@@ -501,12 +501,12 @@ RESPONSIVE
 		padding: 0;
 	}
 }
--webkit-scrollbar {
+scrollbar {
  width: 20px;
 }
--webkit-scrollbar-track {
+scrollbar-track {
  background-color: white;
 
 }
--webkit-scrollbar-thumb {
+scrollbar-thumb {
   background: black;
