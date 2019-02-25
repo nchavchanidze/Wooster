@@ -501,12 +501,3 @@ RESPONSIVE
 		padding: 0;
 	}
 }
-scrollbar {
- width: 20px;
-}
-scrollbar-track {
- background-color: white;
-
-}
-scrollbar-thumb {
-  background: black;
